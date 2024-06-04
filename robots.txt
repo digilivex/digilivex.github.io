@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://digilivex.github.io/sitemap.xml
